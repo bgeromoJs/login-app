@@ -1,5 +1,4 @@
 require("dotenv-safe").load();
-var jwt = require("jsonwebtoken");
 var http = require("http");
 var cors = require("cors");
 const express = require("express");
